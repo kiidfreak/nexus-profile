@@ -6,7 +6,7 @@ import team3 from '../assets/team/Ian.jpg';
 
 const teamMembers = [
   {
-    name: "Shei",
+    name: "Mark Paul Chege - Shei",
     role: "Frontend & UI/UX Designer",
     bio: "Creative frontend developer and UI/UX specialist crafting beautiful, user-centered digital experiences with modern design principles.",
     imageUrl: team1,
@@ -17,7 +17,7 @@ const teamMembers = [
     },
   },
   {
-    name: "Manu",
+    name: "Emmanuel Maina - Manucho",
     role: "Frontend & IoT Solutions Developer",
     bio: "Versatile developer bridging frontend technologies with IoT hardware integration, creating seamless digital-physical experiences.",
     imageUrl: team2,
@@ -28,7 +28,7 @@ const teamMembers = [
     },
   },
   {
-    name: "Ian",
+    name: "Ian Warutere - Ian",
     role: "Fullstack Developer",
     bio: "Complete stack engineer building robust applications from database to user interface, ensuring scalable and maintainable solutions.",
     imageUrl: team3,
