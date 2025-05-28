@@ -19,7 +19,7 @@ const Index = () => {
             <div className="container max-w-screen-xl mx-auto px-6 text-center">
                 <h2 className="text-4xl md:text-5xl font-serif font-bold text-brand-deep-blue mb-4 animate-fade-in-up">Ready to Elevate Your Digital Presence?</h2>
                 <p className="text-lg md:text-xl text-foreground/80 mb-8 max-w-2xl mx-auto animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-                    Let's discuss how Elysian can transform your ideas into extraordinary digital realities.
+                    Let's discuss how Nexus Swift can transform your ideas into extraordinary digital realities.
                 </p>
                 <div className="animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
                      <a 
