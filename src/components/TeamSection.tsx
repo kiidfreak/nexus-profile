@@ -1,13 +1,15 @@
-
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Linkedin, Twitter, Github } from "lucide-react";
+import team1 from '../assets/team/Shei.png';
+import team2 from '../assets/team/Manu.png';
+import team3 from '../assets/team/Ian.jpg';
 
 const teamMembers = [
   {
-    name: "Mark Paul",
+    name: "Shei",
     role: "Frontend & UI/UX Designer",
     bio: "Creative frontend developer and UI/UX specialist crafting beautiful, user-centered digital experiences with modern design principles.",
-    imageUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop",
+    imageUrl: team1,
     socials: {
       linkedin: "#",
       twitter: "#",
@@ -15,10 +17,10 @@ const teamMembers = [
     },
   },
   {
-    name: "Emmanuel Maina",
+    name: "Manu",
     role: "Frontend & IoT Solutions Developer",
     bio: "Versatile developer bridging frontend technologies with IoT hardware integration, creating seamless digital-physical experiences.",
-    imageUrl: "https://images.unsplash.com/photo-1520466809213-7b9a56db9266?q=80&w=800&auto=format&fit=crop",
+    imageUrl: team2,
     socials: {
       linkedin: "#",
       twitter: "#",
@@ -26,10 +28,10 @@ const teamMembers = [
     },
   },
   {
-    name: "Ian Warutere",
+    name: "Ian",
     role: "Fullstack Developer",
     bio: "Complete stack engineer building robust applications from database to user interface, ensuring scalable and maintainable solutions.",
-    imageUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=800&auto=format&fit=crop",
+    imageUrl: team3,
     socials: {
       linkedin: "#",
       twitter: "#",

@@ -26,7 +26,7 @@ const PhilosophySection = () => {
         <div className="text-center mb-12 md:mb-16 animate-fade-in-up">
           <h2 className="text-4xl md:text-5xl font-serif font-bold text-brand-deep-blue mb-4">Our Guiding Philosophy</h2>
           <p className="text-lg md:text-xl text-foreground/80 max-w-2xl mx-auto">
-            At the heart of Elysian lies a commitment to principles that define true luxury in the digital realm.
+            At the heart of Nexus Swift lies a commitment to principles that define true luxury in the digital realm.
           </p>
         </div>
         <div className="grid md:grid-cols-1 lg:grid-cols-3 gap-8 md:gap-12">
